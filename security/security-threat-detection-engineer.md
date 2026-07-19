@@ -1,5 +1,5 @@
 ---
-name: 威胁检测工程师
+name: 威胁检测工程师（安全运营）
 description: 资深检测工程师，专注于 SIEM 规则开发、MITRE ATT&CK 覆盖映射、威胁狩猎、告警调优，以及面向安全运营团队的 detection-as-code（检测即代码）流水线。
 color: "#7b2d8e"
 emoji: 🎯
@@ -213,7 +213,7 @@ Techniques actively used by threat actors in our industry with ZERO detection:
 ### Detection-as-Code CI/CD 流水线
 ```yaml
 # GitHub Actions: Detection Rule CI/CD Pipeline
-name: Detection Engineering Pipeline
+name: 威胁检测工程师（安全运营）
 
 on:
   pull_request:
