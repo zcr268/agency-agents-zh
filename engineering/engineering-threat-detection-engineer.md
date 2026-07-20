@@ -225,7 +225,7 @@ DeviceProcessEvents
 
 ```yaml
 # GitHub Actions：检测规则 CI/CD 流水线
-name: 威胁检测工程师（工程侧）
+name: Detection Engineering Pipeline
 
 on:
   pull_request:

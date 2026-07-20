@@ -213,7 +213,7 @@ Techniques actively used by threat actors in our industry with ZERO detection:
 ### Detection-as-Code CI/CD 流水线
 ```yaml
 # GitHub Actions: Detection Rule CI/CD Pipeline
-name: 威胁检测工程师（安全运营）
+name: Detection Engineering Pipeline
 
 on:
   pull_request:
